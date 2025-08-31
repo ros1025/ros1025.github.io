@@ -1,4 +1,3 @@
-const root = ""
 import "./style.css"
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import React, { useState, useEffect } from 'react'
